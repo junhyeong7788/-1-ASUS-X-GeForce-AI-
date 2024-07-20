@@ -37,8 +37,7 @@ Zephyrus 노트북은 디자인, 성능 두 마리 토끼를 모두 잡은 모�
 ## 생성이미지 1
 
 ![poster](asus_gen_img0.png)
-<img src="/Users/jun/Library/Mobile Documents/com~apple~CloudDocs/Github/Generative_AI_Image_Competition/asus_gen_img0.png", height="1000x", width="1000px">
 
 ## 생성이미지 2
 
-<img src="/Users/jun/Library/Mobile Documents/com~apple~CloudDocs/Github/Generative_AI_Image_Competition/asus_gen_img1.png", height="1000x", width="1000px">
+![poster](asus_gen_img1.png)
