@@ -33,3 +33,11 @@ Zephyrus 노트북은 디자인, 성능 두 마리 토끼를 모두 잡은 모�
    (a) 측후면 각도배치를 통한 슬림한 옆라인 강조  
    (b) 하단 로고배치를 통해 공백제거 및 제품 상기  
    (c) 매트리스 형태 선의 수렴을 통한 시선 집중화 강조
+
+## 생성이미지 1
+
+<img src="/Users/jun/Library/Mobile Documents/com~apple~CloudDocs/Github/Generative_AI_Image_Competition/asus_gen_img0.png", height="1000x", width="1000px">
+
+## 생성이미지 2
+
+<img src="/Users/jun/Library/Mobile Documents/com~apple~CloudDocs/Github/Generative_AI_Image_Competition/asus_gen_img1.png", height="1000x", width="1000px">
